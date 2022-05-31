@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://kenanege.com/about/](https://kenanege.com/about/)
 
+- 🌐 Github Pages Website [https://kenanaegean.github.io/](https://kenanaegean.github.io/) 
+
 ## 🌐 Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/kenanege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenanege" height="30" width="40" /></a>
