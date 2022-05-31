@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenan</h1>
 <h3 align="center">A passionate Computer Engineering stdudent from Turkey! I am really into Game Development 🎮</h3>
 
-- 🌱 I’m currently learning **Game Developing**
+- 🎮 I’m currently learning **Game Developing**
 
 - 👨‍💻 All of my projects are available at [www.kenanege.com](www.kenanege.com)
 
