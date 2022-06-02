@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kenanege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenanege" height="30" width="40" /></a>
 <a href="https://instagram.com/kenanege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenanege" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/kenan ege](https://www.youtube.com/channel/UCds6Gb5gvdc6_zyXa8u5e0w)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kenan ege" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCds6Gb5gvdc6_zyXa8u5e0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kenan ege" height="30" width="40" /></a>
 </p>
 
 <!-- 
