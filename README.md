@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👾, I'm Kenan</h1>
-<h3 align="center">A passionate Computer Engineering student from Turkey! <br> I am really into Game Development  <br> I am currently exploring huge openworld, looking for stories that worth to tell and worth to experienced.  <br> 🎮</h3>
+<h3 align="center">A passionate Computer Engineer from Turkey! <br> I am really into Game Development  <br> I am currently exploring huge openworld, looking for stories that worth to tell and worth to experienced.  <br> 🎮</h3>
 
 
 - 🎮 I’m currently learning **Game Developing**
