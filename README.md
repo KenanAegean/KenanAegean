@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Engineer from Turkey! <br> I am really into Game Development  <br> I am currently exploring huge openworld, looking for stories that worth to tell and worth to experienced.  <br> 🎮</h3>
 
 
-- 🎮 I’m currently learning **Game Developing**
+- 🎮 **Game Developer**
 
 - 👨‍💻 All of my projects are available at [www.kenanege.com](www.kenanege.com)
 
