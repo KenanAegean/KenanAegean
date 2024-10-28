@@ -44,7 +44,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenanAegean&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🎮 What Am I Play:
+## 🎮 What I Play:
 ![ZoneBee](https://steam-stat.vercel.app/api?profileName=ZoneBee)
 
 ## ✍️ Random Dev Quote
