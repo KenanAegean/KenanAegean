@@ -4,7 +4,7 @@
 
 - 🎮 **Game Developer**
 
-- 👨‍💻 All of my projects are available at [www.kenanege.com](www.kenanege.com)
+- 👨‍💻 All of my projects are available at [https://kenanege.com](https://kenanege.com)
 
 - 📫 How to reach me **developerkenanege@gmail.com**
 
