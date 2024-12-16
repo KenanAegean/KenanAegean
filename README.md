@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **developerkenanege@gmail.com**
 
-- 📄 Know about my experiences [https://kenanege.com/about/](https://kenanege.com/about/)
+- 📄 Know about my experiences [https://kenanege.com](https://kenanege.com)
 
 - 🌐 Github Pages Website [https://kenanaegean.github.io/](https://kenanaegean.github.io/) 
 
