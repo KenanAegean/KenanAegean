@@ -1,76 +1,99 @@
-<h1 align="center">Hey there, I'm Kenan 👾</h1>
-<h3 align="center">Game Developer | Story-Driven Coder | World Builder</h3>
+<h1 align="center">Hey there, I'm <span style="color:#ff6f61;">Kenan Ege</span>!</h1>
+<h3 align="center">Creative Game Developer | Code Alchemist | Toolmaker | Explorer</h3>
 
 <p align="center">
-    Passionate about turning code into stories and pixels into adventures.<br>
-    I craft games that <b>feel</b>, <b>flow</b>, and <b>fight back</b> — from low-level logic to player emotion.<br>
-    Currently: venturing through vast open worlds, building one of my own.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lrbW52ODZ1ZDh0bTF0eXpmYzJreTZsdnBjcXQ1OGFzbXZiNzFvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="480" alt="Kenan is coding magic">
 </p>
 
 ---
 
-- 🎮 **Game Developer** | C++ & C# | Unity & Unreal Engine  
-- ✨ Interested in AI, procedural worlds, pixel art pipelines, and interactive storytelling  
-- 🔗 Portfolio & Projects → [kenanege.com](https://kenanege.com)  
-- 📬 Reach me → **developerkenanege@gmail.com**  
-- 🌍 GitHub Pages (experiments & web builds) → [kenanaegean.github.io](https://kenanaegean.github.io/)  
-- 📄 Resume → [kenanege.com](https://kenanege.com)
+### About Me
+
+- 🕹️ Passionate **game programmer** turned from a software engineer into a full-time world builder  
+- ✈️ Left the 9-to-5 behind to study **Game Programming at Futuregames Academy** in Warsaw  
+- 🎨 I love combining **technical systems** with **creative expression** — gameplay, AI, tools, and vibes  
+- 💡 Addicted to building: procedural maps, emergent AI, weird ideas that just *might* work  
+- 🧪 Also exploring scripting, web dev, mobile apps, automation, and robotics  
+- ✏️ Final Boss: crafting *experiences* people remember
 
 ---
 
-## 🌐 Connect With Me
+### 🎮 Featured Game Projects
 
-<p align="left">
-<a href="https://linkedin.com/in/kenanege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenanege" height="30" width="40" /></a>
-<a href="https://instagram.com/kenanege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenanege" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCds6Gb5gvdc6_zyXa8u5e0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kenan ege" height="30" width="40" /></a>
-</p>
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **[Lord of the Horde](https://kenanaegean.github.io/Lord-Of-The-Horde/)** | Roguelike horde-survival game with XP, upgrades, AI swarms, and chaos | Unity, C#, ScriptableObjects | [Play WebGL](https://kenanaegean.github.io/Lord-Of-The-Horde/) |
+| **[No Need For Speed](https://github.com/KenanAegean/No-Need-For-Speed)** | Multiplayer racing with Unity Netcode — low stakes, big fun | Unity, C#, NGO | [Try Game](https://kenanaegean.github.io/No-Need-For-Speed/) |
+| **[Snake Game: C++ Edition](https://github.com/KenanAegean/Snake-Game-Cpp)** | Minimalist C++ version of the classic snake with no engine | C++, SDL | — |
+| **[Snake Game: Unreal Edition](https://github.com/KenanAegean/Snake-Game-Unreal)** | 3D snake remake in UE5, tail logic, food system, and cool vibes | Unreal Engine 5, C++, Blueprints | — |
+| **[Pixel Art Generator](https://github.com/KenanAegean/PixelArt-Maker)** | Converts real photos into pixel avatars using OpenCV and rembg | Python, OpenCV, rembg | — |
 
 ---
 
-## 🛠️ Languages & Tools
+### ⚙️ Beyond Games – Tools & Tech Projects
 
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/615/PNG/256/ndroid_icon-icons.com_56594.png" width="40" height="40"/></a>
+| Project | Description | Tech & Languages |
+|---------|-------------|------------------|
+| **[Steam Screenshot Sorter](https://github.com/KenanAegean/Steam-Screenshot-Tool)** | Sorts your Steam screenshots by game, logs missing titles | Python, SteamGridDB API, Tkinter |
+| **[Linux Lab Script](https://github.com/KenanAegean/Operating-System-Bash-Lab)** | Automates filesystem tasks, permissions, and OS-level operations | Bash |
+| **[MTG Deck Helper](https://github.com/KenanAegean/MTG-Deck-Helper)** | Interactive JS web app to build & play Magic: The Gathering decks | JavaScript, HTML, SCSS |
+| **[Android Stadium Info App](https://github.com/KenanAegean/Euro2022StadiumInfo)** | Mobile app showing World Cup 2022 stadiums info | Java, Android Studio |
+| **[Windows Note Editor](https://github.com/KenanAegean/NoteApp-CSharp)** | Windows Forms note-taking app with save/load support | C#, .NET |
+| **[Robotic Arm Simulator](https://github.com/KenanAegean/Mitsubishi-Robot-Code)** | MELFA Basic project to simulate robotic gripper movement | MELFA Basic |
+
+---
+
+### 🔬 Algorithms & AI Experiments
+
+- **Pattern Search Benchmarks** – Sunday, KMP, Rabin-Karp, FSM and others (C++)  
+- **Roman Numeral Converter**, Array Rotation, Sorting practice (C++/C#)  
+- **Hackathon Project: A.I.S.T.** – An AI-based sports tracker built collaboratively  
+- **Image Cropping & Face Detection** – Haar Cascades + custom image placement logic
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**  
+`C#` | `C++` | `Python` | `JavaScript` | `Java` | `HTML/CSS` | `Bash` | `MELFA Basic`
+
+**Game Engines & Frameworks**  
+`Unity` | `Unreal Engine 5` | `Netcode for GameObjects` | `SFML` | `.NET` | `Android Studio`
+
+**Other Tools**  
+`OpenCV` | `rembg` | `ComfyUI` | `GitHub Actions` | `Photoshop` | `Shader Graph`
+
+---
+
+### 📡 Connect With Me
+
+- **Portfolio & Blog**: [kenanege.com](https://kenanege.com)  
+- **WebGL Experiments**: [kenanaegean.github.io](https://kenanaegean.github.io/)  
+- **Email**: [developerkenanege@gmail.com](mailto:developerkenanege@gmail.com)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KenanAegean&show_icons=true&theme=radical&hide_border=true" alt="Kenan's GitHub stats" />
   <br>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenanAegean&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanAegean&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Highlighted Projects
+### 🐍 Contribution Snake
 
-| Project | Description | Technologies | Live / Repo |
-|--------|-------------|--------------|-------------|
-| **Lord of the Horde** | A 2D roguelike horde-survival game featuring XP, upgrades, dynamic AI, and procedural enemies. | Unity, C#, ScriptableObjects | [Play WebGL](https://kenanaegean.github.io/Lord-Of-The-Horde) / [Repo](https://github.com/KenanAegean/Lord-Of-The-Horde) |
-| **Snake Game: C++ Edition** | Classic Snake game built purely in C++ from scratch with no external engine. | C++, SDL (optional) | [Repo](https://github.com/KenanAegean/SnakeGame-Cpp) |
-| **Snake Game: Unreal Edition** | A full 3D remake of Snake in Unreal Engine 5 with smooth tail physics and food spawning. | Unreal Engine 5, C++, Blueprints | [Repo](https://github.com/KenanAegean/SnakeGame-Unreal) |
-| **Steam Screenshot Sorter** | Python utility that auto-sorts screenshots into game-named folders and logs missing titles. | Python, SteamGridDB, File I/O | [Repo](https://github.com/KenanAegean/SteamScreenshotSorter) |
-| **Pixel Art Generator** | Turns photos into clean, transparent, color-limited pixel art for avatars and games. | Python, OpenCV, rembg | [Repo](https://github.com/KenanAegean/PixelArtGenerator) |
-| **No Need For Speed** | Networked multiplayer racing game with countdowns, ready UI, and WebGL testing. | Unity Netcode, Unity UI, C# | [Repo](https://github.com/KenanAegean/NoNeedForSpeed) |
+![Snake animation](https://github.com/KenanAegean/KenanAegean/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📊 GitHub Stats
+### ✨ Final Words
 
-![](https://github-readme-stats.vercel.app/api?username=KenanAegean&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KenanAegean&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenanAegean&theme=tokyonight&hide_border=false&layout=compact)
+> *"Whether it's a script, a system, or a spell — I build things that spark curiosity, solve problems, and sometimes break reality (on purpose)."*
 
----
-
-## 🎮 What I Play
-
-![ZoneBee](https://steam-stat.vercel.app/api?profileName=ZoneBee)
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Stay weird. Stay building.  
+**– Kenan**
