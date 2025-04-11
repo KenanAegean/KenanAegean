@@ -44,121 +44,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-      <th>Live / Repo</th>
-    </tr>
-    
-    <tr>
-      <td><b>Lord of the Horde</b><br>
-        <img src="https://kenanaegean.github.io/Lord-Of-The-Horde/favicon.ico" width="50"/>
-      </td>
-      <td>
-        2D roguelike where you survive endless hordes, level up, collect XP, and choose randomized upgrades.<br>
-        Featuring AI enemies, upgrade systems, and juicy feedback.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Unity-2022.3-blue?logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-GameScripts-purple?logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ScriptableObjects-Used-informational"/>
-      </td>
-      <td>
-        <a href="https://kenanaegean.github.io/Lord-Of-The-Horde" target="_blank">🌐 Play WebGL</a><br>
-        <a href="https://github.com/KenanAegean/Lord-Of-The-Horde" target="_blank">📁 Source Code</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td><b>Snake Game: C++ Edition</b><br>
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40"/>
-      </td>
-      <td>
-        Classic Snake, but coded from scratch in C++ — tight controls, console-based fun, and fully engine-free.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/C++-Modern-blue?logo=cpp"/>
-        <img src="https://img.shields.io/badge/OOP-StructBased-lightgrey"/>
-      </td>
-      <td>
-        <a href="https://github.com/KenanAegean/SnakeGame-Cpp" target="_blank">📁 Source Code</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td><b>Snake Game: Unreal Edition</b><br>
-        <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" width="40"/>
-      </td>
-      <td>
-        3D Snake with smooth tail logic, procedural food spawning, and player control via Blueprint & C++. Built in UE5.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Unreal_Engine-5-black?logo=unrealengine"/>
-        <img src="https://img.shields.io/badge/C++&Blueprints-Combined-blueviolet"/>
-      </td>
-      <td>
-        <a href="https://github.com/KenanAegean/SnakeGame-Unreal" target="_blank">📁 Source Code</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td><b>Steam Screenshot Sorter</b><br>
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="35"/>
-      </td>
-      <td>
-        Python script that organizes Steam screenshots by game name, generates SteamDB links, and logs missing games.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3.x-yellowgreen?logo=python"/>
-        <img src="https://img.shields.io/badge/SteamGridDB-API-lightblue"/>
-        <img src="https://img.shields.io/badge/OS-Windows/Mac/Linux-lightgrey"/>
-      </td>
-      <td>
-        <a href="https://github.com/KenanAegean/SteamScreenshotSorter" target="_blank">📁 Source Code</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td><b>Pixel Art Generator</b><br>
-        <img src="https://cdn-icons-png.flaticon.com/512/1532/1532665.png" width="35"/>
-      </td>
-      <td>
-        Converts user photos into clean pixel art with a transparent background, fixed palette, and centered composition.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/OpenCV-Used-blue?logo=opencv"/>
-        <img src="https://img.shields.io/badge/rembg-Transparent_Bg-informational"/>
-        <img src="https://img.shields.io/badge/Pillow-Image_Processing-lightgrey"/>
-      </td>
-      <td>
-        <a href="https://github.com/KenanAegean/PixelArtGenerator" target="_blank">📁 Source Code</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td><b>No Need For Speed</b><br>
-        <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="35"/>
-      </td>
-      <td>
-        Multiplayer racing game (NGO) with a full UI flow: Ready screen, countdown, in-race tracking, and end results.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Unity_Netcode-NGO-orange?logo=unity"/>
-        <img src="https://img.shields.io/badge/Cinemachine-CameraSystem-red"/>
-        <img src="https://img.shields.io/badge/UI-Full%20Flow-brightgreen"/>
-      </td>
-      <td>
-        <a href="https://github.com/KenanAegean/NoNeedForSpeed" target="_blank">📁 Source Code</a>
-      </td>
-    </tr>
-
-  </table>
-</div>
+| Project | Description | Technologies | Live / Repo |
+|--------|-------------|--------------|-------------|
+| **Lord of the Horde** | A 2D roguelike horde-survival game featuring XP, upgrades, dynamic AI, and procedural enemies. | Unity, C#, ScriptableObjects | [Play WebGL](https://kenanaegean.github.io/Lord-Of-The-Horde) / [Repo](https://github.com/KenanAegean/Lord-Of-The-Horde) |
+| **Snake Game: C++ Edition** | Classic Snake game built purely in C++ from scratch with no external engine. | C++, SDL (optional) | [Repo](https://github.com/KenanAegean/SnakeGame-Cpp) |
+| **Snake Game: Unreal Edition** | A full 3D remake of Snake in Unreal Engine 5 with smooth tail physics and food spawning. | Unreal Engine 5, C++, Blueprints | [Repo](https://github.com/KenanAegean/SnakeGame-Unreal) |
+| **Steam Screenshot Sorter** | Python utility that auto-sorts screenshots into game-named folders and logs missing titles. | Python, SteamGridDB, File I/O | [Repo](https://github.com/KenanAegean/SteamScreenshotSorter) |
+| **Pixel Art Generator** | Turns photos into clean, transparent, color-limited pixel art for avatars and games. | Python, OpenCV, rembg | [Repo](https://github.com/KenanAegean/PixelArtGenerator) |
+| **No Need For Speed** | Networked multiplayer racing game with countdowns, ready UI, and WebGL testing. | Unity Netcode, Unity UI, C# | [Repo](https://github.com/KenanAegean/NoNeedForSpeed) |
 
 ---
 
