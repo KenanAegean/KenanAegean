@@ -87,7 +87,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/KenanAegean/KenanAegean/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KenanAegean/KenanAegean/dist/github-contribution-grid-snake.svg)
 
 ---
 
