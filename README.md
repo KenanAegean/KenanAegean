@@ -18,6 +18,12 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+![Snake animation](dist/github-contribution-grid-snake.svg)
+
+---
+<!--
 ### 🎮 Featured Game Projects
 
 | Project | Description | Tech Stack | Live Demo |
@@ -43,12 +49,16 @@
 
 ---
 
+
+
 ### 🔬 Algorithms & AI Experiments
 
 - **Pattern Search Benchmarks** – Sunday, KMP, Rabin-Karp, FSM and others (C++)  
 - **Roman Numeral Converter**, Array Rotation, Sorting practice (C++/C#)  
 - **Hackathon Project: A.I.S.T.** – An AI-based sports tracker built collaboratively  
 - **Image Cropping & Face Detection** – Haar Cascades + custom image placement logic
+
+-->
 
 ---
 
@@ -85,15 +95,9 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](dist/github-contribution-grid-snake.svg)
-
----
-
 ### ✨ Final Words
 
-> *"Whether it's a script, a system, or a spell — I build things that spark curiosity, solve problems, and sometimes break reality (on purpose)."*
+> *"Every game is a universe. Every bug is a mini-boss. Every player is the hero. I'm just the guy spawning XP drops."*
 
-Stay weird. Stay building.  
+Stay curious. Stay chaotic.  
 **– Kenan**
