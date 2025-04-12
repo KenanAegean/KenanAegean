@@ -4,9 +4,9 @@
 <h1 align="center">I'm <span style="color:#ff6f61;">Kenan Ege</span>!</h1>
 <h3 align="center">Creative Game Developer | Code Alchemist | Toolmaker | Explorer</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhyMWZxczVpODVjb3hjd3JocmU2NDZxdnRjbXp2cXE5OTNvdWp2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="333" alt="Kenan is coding magic">
-</p>
+</p>-->
 
 ---
 
