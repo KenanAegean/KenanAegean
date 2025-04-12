@@ -22,8 +22,10 @@
 
 ![Snake animation](dist/github-contribution-grid-snake.svg)
 
----
+
 <!--
+---
+
 ### 🎮 Featured Game Projects
 
 | Project | Description | Tech Stack | Live Demo |
