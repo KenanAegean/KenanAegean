@@ -87,7 +87,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](dist\github-contribution-grid-snake.svg)
+![Snake animation](dist/github-contribution-grid-snake.svg)
 
 ---
 
