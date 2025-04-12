@@ -1,4 +1,7 @@
-<h1 align="center">Hey there, I'm <span style="color:#ff6f61;">Kenan Ege</span>!</h1>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Mwd21maGo5YzRxNGJ2azFsdms5Ym9jaW03bmx6dWVuYXh0ZHoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="480" alt="Kenan is coding magic">
+</p>
+<h1 align="center">I'm <span style="color:#ff6f61;">Kenan Ege</span>!</h1>
 <h3 align="center">Creative Game Developer | Code Alchemist | Toolmaker | Explorer</h3>
 
 <p align="center">
