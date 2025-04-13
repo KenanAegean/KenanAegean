@@ -106,3 +106,10 @@
 
 Stay curious. Stay chaotic.  
 **– Kenan**
+
+---
+
+### 👀 Profile Visits
+
+![](https://komarev.com/ghpvc/?username=KenanAegean&color=green)
+ 
