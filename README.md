@@ -13,7 +13,7 @@
 ### About Me
 
 - 🕹️ Passionate **game programmer** turned from a software engineer into a full-time world builder  
-- ✈️ Left the 9-to-5 behind to study **Game Programming at Futuregames Academy** in Warsaw  
+- ✈️ Studying **Game Programming at Futuregames Academy** in Warsaw  
 - 🎨 I love combining **technical systems** with **creative expression** — gameplay, AI, tools, and vibes  
 - 💡 Addicted to building: procedural maps, emergent AI, weird ideas that just *might* work  
 - 🧪 Also exploring scripting, web dev, mobile apps, automation, and robotics  
