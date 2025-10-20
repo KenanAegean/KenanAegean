@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Mwd21maGo5YzRxNGJ2azFsdms5Ym9jaW03bmx6dWVuYXh0ZHoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="480" alt="Kenan is coding magic">
 </p>
-<h1 align="center">I'm <span style="color:#ff6f61;">Kenan Ege</span>!</h1>
-<h3 align="center">Creative Game Developer | Code Alchemist | Toolmaker | Explorer</h3>
+<h1 align="center">I'm Kenan Ege</h1>
+<h3 align="center">Game Programmer | Unity & Unreal Engine</h3>
 
 <!--<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhyMWZxczVpODVjb3hjd3JocmU2NDZxdnRjbXp2cXE5OTNvdWp2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="333" alt="Kenan is coding magic">
@@ -12,12 +12,11 @@
 
 ### About Me
 
-- 🕹️ Passionate **game programmer** turned from a software engineer into a full-time world builder  
-- ✈️ Studying **Game Programming at Futuregames Academy** in Warsaw  
-- 🎨 I love combining **technical systems** with **creative expression** — gameplay, AI, tools, and vibes  
-- 💡 Addicted to building: procedural maps, emergent AI, weird ideas that just *might* work  
-- 🧪 Also exploring scripting, web dev, mobile apps, automation, and robotics  
-- ✏️ Final Boss: crafting *experiences* people remember
+- 🎮 Game programming student at **Futuregames Academy** in Warsaw
+- 💼 Former software engineer transitioning to full-time game development
+- 🛠️ I enjoy building gameplay systems, AI behaviors, and dev tools
+- 🧪 Always experimenting with procedural generation, multiplayer, and optimization
+- ✨ Goal: Create games that players actually want to finish
 
 ---
 
